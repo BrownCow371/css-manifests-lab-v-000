@@ -3,6 +3,6 @@
 *= require pages
 *= require jquery-addon
 *= require posts
-
+*= require blog
 
 */
